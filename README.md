@@ -7,10 +7,13 @@ Soporta cualquier extensión de archivo, podremos editarlo dentro del script
 Por ahora solo hay versión de Windows
 
 # USO 
+
 ## Flag_Hunter (Windows)
 
 Tendremos que tener instalado python 3 en nuestro dispositivo, si no lo tenemos haremos lo siguiente desde PowerShell
+
 winget install --id Python.Python.3 --source winget
 
 una vez hecho eso ejecutaremos el script de la siguiente manera
+
 python3 flag_hunter.py
