@@ -30,7 +30,7 @@ Una vez hecho eso, ejecutaremos el script de la siguiente manera
 
 python3 flag_hunter.py
 
-# USO
+# USO flag_hunter.sh
 ## flag_hunter.sh en Windows
 
 Para ejecutarlo tendremos que tener git bash en ek sistema
