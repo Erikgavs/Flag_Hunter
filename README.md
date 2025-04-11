@@ -8,7 +8,7 @@ Por ahora solo hay versión de Windows
 
 Abajo tendremos una guía de uso de flag_hunter.py y flag_hunter.sh
 
-# USO flag_hunter.py
+# USO flag_hunter.py y flag_hunter.sh
 
 ## Flag_Hunter en Windows
 
@@ -31,13 +31,6 @@ Una vez hecho eso, ejecutaremos el script de la siguiente manera
 python3 flag_hunter.py
 
 # USO flag_hunter.sh
-## flag_hunter.sh en Windows
-
-Para ejecutarlo tendremos que tener git bash en ek sistema
-
-Lo ejecutamos de la siguiente manera
-
-./flag_hunter.sh
 
 ## flag_hunter.sh en Linux
 
@@ -46,6 +39,7 @@ En el directorio donde se encuentre el script, le otorgaremos permisos con el si
 chmod +x flag_hunter.sh
 
 ejecutaremos el script de la siguiente manera
+
 ./flag_hunter.sh
 
 
